@@ -28,7 +28,7 @@ Projeto que calcula a média de duas notas de um aluno
 Aqui, vou ensinar como rodar no projeto, caso tenha o interesse de ver funcionando na sua própria máquina.
 
 • Primeiro, instale um compilador no de códigos no seu computador; <br>
-• Após instalado, clique com o botão direito no projeto fonte (C++), vá em "abrir com" e utilize o compilador instalado; <br>
+• Após instalado, clique com o botão direito no projeto fonte (main), vá em "abrir com" e utilize o compilador instalado; <br>
 • Após isso, é só testar e alterar o código da forma que desejar :)
 
 <h2 id="#routes"> Pré-requisitos</h2>

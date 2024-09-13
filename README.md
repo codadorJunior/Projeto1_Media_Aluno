@@ -27,6 +27,10 @@ Projeto que calcula a média de duas notas de um aluno
 
 Aqui, vou ensinar como rodar no projeto, caso tenha o interesse de ver funcionando na sua própria máquina.
 
+• Primeiro, instale um compilador no de códigos no seu computador; <br>
+• Após instalado, clique com o botão direito no projeto fonte (C++), vá em "abrir com" e utilize o compilador instalado; <br>
+• Após isso, é só testar e alterar o código da forma que desejar :)
+
 <h2 id="#routes"> Pré-requisitos</h2>
 
 Aqui está uma lista dos programas que você precisa caso queira ter o projeto na sua própria máquina, se o fizer com vs-code, será necessário um compilador, vou linkar um que eu uso para faciliar para vocês caso tenham interesse em aplicá-lo com o vs-code, mas como eu estou iniciando no ramo eu utilizo somente o CodeBlocks, que já vem incluso com um compliador próprio (Caso não queira fazer nenhuma instalação, vou deixar o link de um site para rodar o código sem fazer a instalação de nenhum programa, ele também está disponível em Android/IOS)
